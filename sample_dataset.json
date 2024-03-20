@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "1.0.0",
+  "pairs": [
+    {
+      "chainId": "injective",
+      "dexId": "dojoswap",
+      "url": "https://dexscreener.com/injective/inj17ufy5gqw33t0prwhkwa6ensv0jpj3xfvylgx8j",
+      "pairAddress": "inj17ufy5gqw33t0prwhkwa6ensv0jpj3xfvylgx8j",
+      "baseToken": {
+        "address": "inj19dtllzcquads0hu3ykda9m58llupksqwekkfnw",
+        "name": "Baby DOJO Token",
+        "symbol": "babyDOJO"
+      },
+      "quoteToken": {
+        "address": "inj1zdj9kqnknztl2xclm5ssv25yre09f8908d4923",
+        "name": "Dojo Token",
+        "symbol": "DOJO"
+      },
+      "priceNative": "0.006717",
+      "priceUsd": "0.004286",
+      "txns": {
+        "m5": { "buys": 0, "sells": 2 },
+        "h1": { "buys": 0, "sells": 34 },
+        "h6": { "buys": 2, "sells": 178 },
+        "h24": { "buys": 16, "sells": 978 }
+      },
+      "volume": { "h24": 332533.2, "h6": 60484.02, "h1": 20668.51, "m5": 1.85 },
+      "priceChange": { "m5": 0.04, "h1": -6.69, "h6": 16.18, "h24": 25 },
+      "liquidity": { "usd": 849278.1, "base": 99162340, "quote": 664931 },
+      "pairCreatedAt": 1710685033000,
+      "info": {
+        "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/injective/inj19dtllzcquads0hu3ykda9m58llupksqwekkfnw.png",
+        "websites": [
+          { "label": "Website", "url": "https://baby.dojo.trading/" },
+          { "label": "Docs", "url": "https://docs.dojo.trading/" },
+          { "label": "Main Site", "url": "https://dojo.trading/" }
+        ],
+        "socials": [
+          { "type": "twitter", "url": "https://twitter.com/Dojo_Swap" },
+          { "type": "telegram", "url": "https://t.me/dojo_swap" }
+        ]
+      }
+    },
+    {
+      "chainId": "injective",
+      "dexId": "dojoswap",
+      "url": "https://dexscreener.com/injective/inj19ucgk3rghfwu9an5vdl3kxf02h8cguk50042ff",
+      "pairAddress": "inj19ucgk3rghfwu9an5vdl3kxf02h8cguk50042ff",
+      "baseToken": {
+        "address": "inj19dtllzcquads0hu3ykda9m58llupksqwekkfnw",
+        "name": "Baby DOJO Token",
+        "symbol": "babyDOJO"
+      },
+      "quoteToken": { "address": "inj", "name": "Injective", "symbol": "INJ" },
+      "priceNative": "0.0001043",
+      "priceUsd": "0.003725",
+      "txns": {
+        "m5": { "buys": 0, "sells": 0 },
+        "h1": { "buys": 0, "sells": 0 },
+        "h6": { "buys": 0, "sells": 1 },
+        "h24": { "buys": 1, "sells": 30 }
+      },
+      "volume": { "h24": 939.75, "h6": 10.28, "h1": 0, "m5": 0 },
+      "priceChange": { "m5": 0, "h1": 0, "h6": -9.64, "h24": -37.51 },
+      "liquidity": { "usd": 532.2, "base": 89369, "quote": 5.5778 },
+      "pairCreatedAt": 1710163106000,
+      "info": {
+        "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/injective/inj19dtllzcquads0hu3ykda9m58llupksqwekkfnw.png",
+        "websites": [
+          { "label": "Website", "url": "https://baby.dojo.trading/" },
+          { "label": "Docs", "url": "https://docs.dojo.trading/" },
+          { "label": "Main Site", "url": "https://dojo.trading/" }
+        ],
+        "socials": [
+          { "type": "twitter", "url": "https://twitter.com/Dojo_Swap" },
+          { "type": "telegram", "url": "https://t.me/dojo_swap" }
+        ]
+      }
+    }
+  ]
+}
